@@ -49,6 +49,6 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>server</finalName>
     </build>
-
 </project>
